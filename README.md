@@ -10,6 +10,10 @@ docker pull jenkins/jenkins:2.222.3-centos
 
 docker pull jenkins/jenkins:2.235.1-lts-centos7 （最新版-推荐）
 
+docker官方仓库：https://hub.docker.com/r/jenkins/jenkins
+
+Jenkins官方Docker映像文档说明：https://github.com/jenkinsci/docker/blob/master/README.md
+
 ### **二、安装Jenkins**
 
 ##### 1、创建jenkins挂载目录
@@ -419,3 +423,7 @@ https://www.bbsmax.com/A/ZOJPD13aJv/
 2、Linux-GitLab+Jenkins持续集成+自动化部署（值得推荐文章）
 
 https://www.bbsmax.com/A/Gkz1avp6zR/
+
+3、Docker 安装 Jenkins （超详细）
+
+https://segon.cn/install-jenkins-using-docker.html
