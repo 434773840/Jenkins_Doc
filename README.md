@@ -28,9 +28,10 @@ Jenkins官方Docker映像文档说明：https://github.com/jenkinsci/docker/blob
 
 ​    **③**设置挂载目录的用户权限
 
-需要修改下目录权限，因为当映射本地数据卷时，`/data/share/tools/jenkins_home/`目录的拥有者为`root`用户，而容器中`jenkins`用户的 uid 为 `1000`。
+​         需要修改下目录权限，因为当映射本地数据卷时，/data/share/tools/jenkins_home目录的拥有者为root用户，而容器中jenkins用户的 uid 为1000。
 
 > ​       **`chown -R 1000:1000 /data/share/tools/jenkins_home`**
+>
 
 ##### **2、启动Jenkins容器**
 
