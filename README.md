@@ -422,10 +422,18 @@ docker images|grep none|awk '{print $3}'|xargs docker rmi
 
 https://www.bbsmax.com/A/ZOJPD13aJv/
 
-2、Linux-GitLab+Jenkins持续集成+自动化部署（值得推荐文章）
+2、Linux-GitLab+Jenkins持续集成+自动化部署（值得推荐文章-包含了Gitlab用户群主的创建和分支的创建）
 
 https://www.bbsmax.com/A/Gkz1avp6zR/
 
 3、Docker 安装 Jenkins （超详细）
 
 https://segon.cn/install-jenkins-using-docker.html
+
+4、Linux-GitLab+Jenkins持续集成+自动化部署
+
+https://www.bbsmax.com/A/Gkz1avp6zR/
+
+5、CentOS 7 Gitlab+Jenkins持续集成+自动化部署（git相关插件说明）
+
+https://www.bbsmax.com/A/kvJ3g4lwJg/
