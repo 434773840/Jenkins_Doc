@@ -306,11 +306,11 @@ Credentials：连接Git的Api Token
 
 #### 新建项目
 
-![img](D:/迅雷下载/视频/jenkins/images/172e537b2c39cec2)
+![img](./images/172e537b2c39cec2)
 
 #### 设置项目简介
 
-![img](D:/迅雷下载/视频/jenkins/images/172e537b35bfea6f)
+![img](./images/172e537b35bfea6f)
 
 #### 源码管理
 
@@ -318,7 +318,7 @@ Credentials：连接Git的Api Token
 - 配置凭证-主要用于拉取代码。
 - 配置需要构建的分支。
 
-![img](D:/迅雷下载/视频/jenkins/images/172e537b3e534c41)
+![img](./images/172e537b3e534c41)
 
 ##### 添加凭证
 
@@ -338,7 +338,7 @@ private key :SSH 私钥(公钥是Gitlab服务器上的SSH配置项)，注意：`
 
 Passphrase：Gitlab服务器的Linux系统登录账号对应的登录密码。
 
-![img](D:/迅雷下载/视频/jenkins/images/172e537b435d22c5)
+![img](./images/172e537b435d22c5)
 
 #### 构建触发器
 
