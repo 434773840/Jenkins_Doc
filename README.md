@@ -1,7 +1,5 @@
 # **Jenkins安装与使用总结**
 
-[TOC]
-
 ### **一、下载Jenkins**
 
 docker pull jenkins/jenkins:centos7
@@ -438,3 +436,18 @@ https://www.bbsmax.com/A/Gkz1avp6zR/
 5、CentOS 7 Gitlab+Jenkins持续集成+自动化部署（git相关插件说明）
 
 https://www.bbsmax.com/A/kvJ3g4lwJg/
+
+
+
+### 问题收集
+
+1、[Jenkins SSH timeout](https://www.cnblogs.com/maxiaofang/p/6289092.html)
+
+​     相关解决方案如下：
+
+​		https://www.colabug.com/2018/0516/2908866/
+
+​       https://www.cnblogs.com/maxiaofang/p/6289092.html
+
+2、[docker 创建容器时指定容器ip](https://www.cnblogs.com/brock0624/p/9795208.html)
+
